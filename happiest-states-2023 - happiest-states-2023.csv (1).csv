@@ -1,0 +1,51 @@
+state,totalScore,emotAndPhysRank,workEnvironRank,communityAndEnvironRank,Happiness Rank,Inverted Happiness Rank
+Hawaii,68.27,1,42,4,1,50
+Utah,67.84,18,13,2,2,49
+Minnesota,67.26,2,20,10,3,48
+North Dakota,65.62,6,7,6,4,47
+California,63.14,4,50,12,5,46
+Idaho,63.09,24,41,1,6,45
+Maryland,61.78,7,2,5,7,44
+Iowa,61.07,8,22,11,8,43
+South Dakota,60.8,14,36,8,9,42
+Nebraska,59.11,10,16,28,10,41
+Wisconsin,58.87,16,29,14,11,40
+Connecticut,58.24,9,6,18,12,39
+New Jersey,58.1,3,4,38,13,38
+New York,57.35,5,3,39,14,37
+Virginia,57.35,15,9,27,15,36
+Massachusetts,56.85,13,5,42,16,35
+Washington,56.44,29,11,9,17,34
+Colorado,55.38,19,25,46,18,33
+Georgia,55.15,25,28,7,19,32
+North Carolina,53.69,21,38,37,20,31
+Arizona,52.92,27,47,34,21,30
+Texas,52.56,11,26,49,22,29
+Illinois,52.47,12,21,44,23,28
+New Hampshire,52.37,23,8,31,24,27
+Kansas,52.3,22,37,36,25,26
+Nevada,51.8,40,44,3,26,25
+Delaware,51.67,17,1,45,27,24
+Montana,51.08,37,31,17,28,23
+Florida,51.01,20,10,47,29,22
+Pennsylvania,50.54,28,14,15,30,21
+Rhode Island,50.44,30,19,29,31,20
+Indiana,50.2,32,17,25,32,19
+Maine,49.81,36,15,30,33,18
+Michigan,49.52,34,27,20,34,17
+Wyoming,48.9,31,23,22,35,16
+South Carolina,48.26,38,43,13,36,15
+Ohio,48.19,35,32,16,37,14
+Vermont,48.18,26,12,48,38,13
+Oregon,48.05,43,39,24,39,12
+Tennessee,46.13,41,33,40,40,11
+New Mexico,43.35,39,51,35,41,10
+Missouri,42.76,45,40,21,42,9
+Mississippi,41.63,42,34,26,43,8
+Kentucky,39.42,48,24,19,44,7
+Alabama,39.35,46,35,43,45,6
+Oklahoma,38.89,47,48,33,46,5
+Alaska,38.21,33,49,50,47,4
+Louisiana,37.15,44,30,41,48,3
+Arkansas,36.61,50,46,23,49,2
+West Virginia,33.42,49,18,32,50,1

@@ -1,0 +1,51 @@
+RANK,State,Student Success,Student Safety,School Quality,Inverted Education Rank
+1,New Jersey,4,2,5,50
+2,New Hampshire,3,7,3,49
+3,Connecticut,2,16,1,48
+4,Vermont,8,5,4,47
+5,Massachusetts,1,13,6,46
+6,New York,13,22,2,45
+7,Maine,6,3,11,44
+8,Colorado,10,1,21,43
+9,Pennsylvania,12,15,8,42
+10,Virginia,7,12,13,41
+11,Delaware,16,8,9,40
+12,Maryland,5,29,10,39
+13,Washington,9,26,23,38
+14,Wyoming,24,14,15,37
+15,Minnesota,15,19,22,36
+16,Iowa,17,23,18,35
+17,South Dakota,22,6,27,34
+18,Ohio,39,4,12,33
+19,Wisconsin,25,18,17,32
+20,Illinois,11,41,14,31
+21,Nebraska,33,17,16,30
+22,Rhode Island,18,46,7,29
+23,Indiana,20,37,19,28
+24,Oregon,21,24,35,27
+25,North Dakota,29,11,31,26
+26,Missouri,32,35,20,25
+27,Montana,28,28,32,24
+28,Kansas,27,31,30,23
+29,Michigan,19,39,37,22
+30,Kentucky,36,30,26,21
+31,Georgia,38,34,25,20
+32,Arkansas,34,40,24,19
+33,Idaho,26,20,45,18
+34,West Virginia,37,32,29,17
+35,Alaska,30,36,39,16
+36,Hawaii,31,42,34,15
+37,Utah,23,21,48,14
+38,Texas,46,25,38,13
+39,Mississippi,50,9,41,12
+40,California,14,49,36,11
+41,Tennessee,43,38,33,10
+42,Florida,42,27,43,9
+43,North Carolina,35,43,40,8
+44,Oklahoma,48,10,47,7
+45,South Carolina,40,47,28,6
+46,Alabama,47,33,44,5
+47,New Mexico,41,44,42,4
+48,Nevada,45,50,46,3
+49,Louisiana,49,48,49,2
+50,Arizona,44,45,50,1
